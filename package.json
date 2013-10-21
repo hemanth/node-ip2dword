@@ -1,0 +1,22 @@
+{
+  "name": "node-ip2dword",
+  "version": "0.0.1",
+  "description": "ip2dword",
+  "main": "ip2dword.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hemanth/node-ip2dword"
+  },
+  "keywords": [
+    "ip",
+    "convert"
+  ],
+  "author": "Hemanth.HM",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/hemanth/node-ip2dword/issues"
+  }
+}
