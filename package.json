@@ -1,5 +1,5 @@
 {
-  "name": "node-ip2dword",
+  "name": "ip2dword",
   "version": "0.0.1",
   "description": "ip2dword",
   "main": "ip2dword.js",
